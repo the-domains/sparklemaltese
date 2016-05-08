@@ -1,14 +1,14 @@
 layout_spectrum: 1
 typography_spectrum: 0.7259697
 color:
-  lightness: 0.7449319
-  brandStrength: 1
-  saturation: 0.605495
-  rhythmicContrast: 0.4180124
+  lightness: 1
+  brandStrength: 0
+  saturation: 0.6096122
+  rhythmicContrast: 0.4409781
   brandColors:
-    - '#DDD8D2'
-    - '#A8A3A0'
-    - '#EDF4FC'
-    - '#BCBDC2'
-    - '#878782'
+    - '#91928D'
+    - '#101010'
+    - '#474738'
+    - '#BA417B'
+    - '#FE9478'
 name: SparkleMaltese

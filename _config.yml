@@ -1,14 +1,26 @@
-layout_spectrum: 0.9123103
-typography_spectrum: 0.7259697
+layout_spectrum: 0.2394604
+name: Sparkle Maltese
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 1
   brandStrength: 0
   saturation: 0.6096122
-  rhythmicContrast: 0.4409781
   brandColors:
     - '#91928D'
     - '#101010'
     - '#474738'
     - '#BA417B'
     - '#FE9478'
-name: Sparkle Maltese
+  lightness: 1
+  rhythmicContrast: 0.4409781
+typography_spectrum: 0.7259697
